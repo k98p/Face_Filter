@@ -3,3 +3,6 @@
 This is just a very basic face filter using facial landmarks to place the .png filter
 
 Facial landmarks were obtained using dlib library.
+
+More additions coming soon!
+
